@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Get the first number from the user
 let firstNumber = prompt("Enter the first number:");
 
@@ -13,4 +12,4 @@ secondNumber = Number(secondNumber);
 let result = (firstNumber === secondNumber);
 
 // Display the result in an alert box
-alert("Are the numbers equal? " + result);
+alert(result);
